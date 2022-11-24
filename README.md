@@ -24,8 +24,10 @@ In this analysis we are assisting a company called Pewlett_Hackard to understand
 ## Election-Audit Summary: 
 ###### Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.
 
-"How many roles will need to be filled as the "silver tsunami" begins to make an impact? 72,458 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? Yes
+"How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
+72,458 
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? 
+Yes
 
 Overall it the silver tsunami seems quite substancial and more hiring and mentoring must be done to improve Pewlett Hackard's human capital. 
 Two additional queries that could be useful is figuring out which departments will be effected the most and to review current salaries and retirement packages to retain employees or reduce cost on the company. 
