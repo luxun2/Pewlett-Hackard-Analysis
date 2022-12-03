@@ -9,9 +9,9 @@ In this analysis we are assisting a company called Pewlett_Hackard to understand
 ## Results
 ###### Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
-* There's roughly 70,000 senior level employees ready to retire. 
+* There's roughly 70,000 unique titles ready to retire. 
 
-* There is a good amount of people who are younger but still experienced able to mentor the up and coming work force. 
+* There is a good amount of people who are younger but still experienced able to mentor the up and coming work force. There are about 1500 elibible mentors.
 
 * Most of the retiring workforce are engineers
 
