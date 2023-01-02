@@ -19,6 +19,7 @@ In this analysis we are assisting a company called Pewlett_Hackard to understand
 
 
 ![This is an image](https://i.imgur.com/otnyiwv.png)
+![This is an image](https://i.imgur.com/J3WwlUN.png)
 
 
 ## Election-Audit Summary: 
